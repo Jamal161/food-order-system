@@ -19,8 +19,6 @@ The app was built using the following technologies:
 - Vercel: for deployment
 
 
-#### Clone the repo
-`git clone https://github.com/de-mawo/dpsresto-yt `
 
 Install packages
 `yarn `
