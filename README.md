@@ -1,10 +1,4 @@
-# DPSRESTO: A food Delivery App
-
-
-<img src="/fullstack.png" alt="project-Img" />
-
-## <a href="https://youtu.be/nZLRBVbNqoU"> Design Video Tutorial </a>
-## <a href="https://youtu.be/PaBvl3bniOI"> Backend Video Tutorial </a>
+#  A food Delivery App
 
 ### Tech-Stack
 The app was built using the following technologies:
